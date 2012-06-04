@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Kynetx for Android</string>
+    <string name="app_name">Kynetx For Android</string>
+    <string name="connect_btn">Connect</string>
+    <string name="connectinstructions">You need to connect this app to your Kynetx account. Please scan a configuration barcode.</string>
+    <string name="reset">Reset Configuration</string>
+    <string name="active">Active</string>
+    <string name="inactive">Disabled</string>
+</resources>

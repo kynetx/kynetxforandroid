@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_margin="5dip" android:layout_height="wrap_content" android:text="@string/connectinstructions"/>
+<Button android:layout_height="wrap_content" android:text="@string/connect_btn" android:layout_width="match_parent" android:layout_marginLeft="30dip" android:layout_marginRight="30dip" android:layout_marginTop="60dip" android:id="@+id/connect_btn"></Button>
+</LinearLayout>
